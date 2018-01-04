@@ -5,4 +5,4 @@ excerpt: "A List of Posts"
 comments: false
 ---
 
-# TEST 0x01
+* TEST 0x01
