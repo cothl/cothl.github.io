@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Church of the Healing Light
-tags: 
+tags:
 date: DATE
 comments: false
 ---
 
-<center><a href="http://URLHERE"><b>Moon</b></a>Church of the Healing Light</center>
+<center><a href="http://cothl.github.io"><b>Church of the Healing Ligh</b></a>t</center>
 
 ## Tenents
 ### THE FATHERHOOD OF GOD AND THE BROTHERHOOD OF MAN
@@ -20,7 +20,9 @@ comments: false
 
 ### THEREFORE, these presents witness: That the following persons whose names follow are the officers and trustees of the Church of the Healing Light
 
-...
-...
-...
-...
+... \n
+... \n
+... \n
+... \n
+
+Donate LITE, BIT, ETH addresses....
