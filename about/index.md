@@ -1,37 +1,26 @@
 ---
 layout: page
-title: About the Theme
+title: Church of the Healing Light
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: DATE
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><a href="http://URLHERE"><b>Moon</b></a>Church of the Healing Light</center>
 
-## Preview
+## Tenents
+### THE FATHERHOOD OF GOD AND THE BROTHERHOOD OF MAN
+* 1st -- Organize, establish and maintain Churches, Centers
+* 2nd -- Promote and emulate the Christian principles as set forth in the Holy bible and the Aquarian Gospel of Jesus the Christ, and as thus authorized by the Four Gospels including 1st corinthians, ch12, to appoint Ministries to give inpritatiional and Spiritual Communications, and to Prophesy, including to warn, exhort and comfort members, individuals, and our fellow beings for their Spiritual and temporal good.
+* 3rd -- Teach Ancient History, Geography, Astronomy, Biology, Psychometry, Philosophy and Science
+* 4th -- Investigate the several phases of Psychic Phenomena, Spirit Return and Psychic Research, Including Home Study and Demonstration Classes.
+* 5th -- Encourage Teach and practice Divine Healing in all its Modes and Phases.
+* 6th -- Hold Meetings, exchange views, endeavoring to keep abreast of advanced thought. Also hold Home Group Circles
+* 7th -- Teach Morality, to propagate the Brotherhood of Mankind and Universal ....
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+### THEREFORE, these presents witness: That the following persons whose names follow are the officers and trustees of the Church of the Healing Light
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+...
+...
+...
+...
